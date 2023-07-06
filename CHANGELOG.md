@@ -1,0 +1,3 @@
+- [v1.00.0](https://github.com/triffalin/stupendoRaschietto/releases/tag/stupendoRaschietto):
+  - creato tutti file
+  - aggiunti i providers italiani
