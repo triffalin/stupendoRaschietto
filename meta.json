@@ -1,0 +1,8 @@
+{
+  "author": "Triff Alin",
+  "version":"1.00.0",
+  "name":"stupendoRaschietto",
+  "update_directory": "https://github.com/triffalin/stupendoRaschietto/archive/",
+  "remote_meta": "https://raw.githubusercontent.com/triffalin/stupendoRaschietto/main/meta.json",
+  "seren_version": "0.1.37"
+}
